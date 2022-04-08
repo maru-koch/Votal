@@ -5,6 +5,9 @@ an Online voting system in which users can create poll, nominations and election
 ## POLLS
 After a poll has been created, user to share links to friends via social media to have their vote amongst his options. User can create custom polls.
 
+## NOMINATION
+Amongst available candate, participants nominate anyone of their choice including self. 
+
 ## ELECTIONS
 Users can create eballoting systems for others to cast their vote. this follows the same process of creating a poll. However, the user has the additional options of adding contestants and their details. A link is generated for the user to share across social media platform.
 
@@ -17,3 +20,4 @@ Users can create eballoting systems for others to cast their vote. this follows 
 - user can publish report at the end of the election or poll
 - Voting manager
 - custom logo
+- users can preload participants names and email addresses as csv. the participants will automatically be sent the link to participate in polls, nomination and elections
