@@ -21,3 +21,6 @@ Users can create eballoting systems for others to cast their vote. this follows 
 - Voting manager
 - custom logo
 - users can preload participants names and email addresses as csv. the participants will automatically be sent the link to participate in polls, nomination and elections
+- payment calculator base on number of voters to be registered on the platform
+- Eligible voter: define a criteria for selecting those eligible to vote
+- 
